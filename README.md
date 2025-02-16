@@ -4,7 +4,7 @@
 
 Creating a collection for "Online Store". For this, the documentation in Swagger was used.  
 
-[Open DemoShopping Collection] (https://www.postman.com/technical-cosmologist-7756332/workspace/my-workspace/collection/40930903-73222a4a-16d0-44bb-b33b-91369a71c663?action=share&creator=40930903&active-environment=40930903-4c5867a1-c183-4024-92d7-ae1358bc79e8)
+[Open DemoShopping Collection](https://github.com/Tokarevael/API/blob/main/DemoShopping.postman_collection.json)
 
 ## SOAP Testing
 
@@ -20,7 +20,7 @@ CountryISOCode
 FullCountryInfo  
 LanguageName  
 
-[Open SOAP Collection](https://www.postman.com/technical-cosmologist-7756332/workspace/my-workspace/collection/40930903-e2c5932d-a979-45e3-93fa-129f88d56fa6?action=share&creator=40930903&active-environment=40930903-4c5867a1-c183-4024-92d7-ae1358bc79e8)
+[Open SOAP Collection](https://github.com/Tokarevael/API/blob/main/SOAP%20Testing.postman_collection.json)
 
 ## Test Cases for API Testing in Postman
 
